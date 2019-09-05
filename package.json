@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "flight itineraries",
   "main": "index.js",
+  "engines": {
+    "node": "10.8.0",
+    "npm": "6.11.1"
+  },
   "scripts": {
     "build-css": "node-sass-chokidar ./src -o ./src",
     "watch-css": "npm run build-css && node-sass-chokidar ./src -o ./src --watch --recursive",
