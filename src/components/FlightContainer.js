@@ -4,7 +4,7 @@ import Title from "./Title";
 import { withFlightConsumer } from "../context";
 
 function FlightContainer({ context }) {
-  const { sortedFlights, flights } = context;
+  const { sortedFlights } = context;
 
   return (
     <section className="filter-container">

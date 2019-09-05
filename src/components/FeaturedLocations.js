@@ -1,7 +1,6 @@
 import React from "react";
 import { FlightContext } from "../context";
 import Flight from "./Flight";
-import FlightInfo from "../pages/FlightInfo";
 import Title from "./Title";
 
 class FeaturedLocations extends React.Component {
