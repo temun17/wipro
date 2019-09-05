@@ -1,7 +1,5 @@
 # wipro
 
-# Welcome to Park Finder!
-
 ![](public/image/screenshot.png)
 ![](public/image/screenshot2.png)
 ![](public/image/screenshot3.png)
